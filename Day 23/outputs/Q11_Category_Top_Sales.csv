@@ -1,0 +1,15 @@
+sale_id,category,customer,product,sales_amount,rnk
+13,Electronics,Alice,Laptop,2400,1
+25,Electronics,Alice,Monitor,1760,2
+1,Electronics,Alice,Laptop,1600,3
+10,Electronics,Diana,Laptop,1600,3
+20,Electronics,Bob,Laptop,1600,3
+24,Electronics,Fiona,Laptop,1600,3
+31,Electronics,Alice,Laptop,1600,3
+35,Electronics,Ethan,Laptop,1600,3
+19,Office,Alice,Desk,1200,1
+28,Office,Diana,Chair,1080,2
+8,Office,Bob,Desk,900,3
+16,Office,Diana,Chair,900,3
+30,Office,Fiona,Desk,900,3
+34,Office,Diana,Desk,900,3
